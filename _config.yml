@@ -63,13 +63,13 @@ content:
         description: | # this will include new lines to allow paragraph
           GPA: 3.72/4.0
 
-  - title: Work Experiecne # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Hyperconnect
         sub_title: Software Engineer
-        caption: 2016 - present
+        caption: Oct 2019 - Oct 2022
         quote: >
           acquired by Match Group in 2021
         description: | # this will include new lines to allow paragraph
