@@ -49,7 +49,7 @@ about_profile_image: images/nyc.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Jaeyoung, currently attending Seoul National University as a Computer Science and Engineering major. I am also working as an undergraduate researcher at MIR lab, where I have the privilege of being advised by Dr. Youngjae Yu.
   
-  I firmly believe that through the power of AI, we can make the world a better place. My primary interests lie in developing and applying AI, particularly in Natural Language Processing (NLP) tasks with social applications, including misinformation detection and LLMs understanding the social value. Additionally, I am intrigued by retrieval-based approaches such as RAG and RALM for addressing these topics.
+  My primary research interests include misinformation detection and LLMs understanding the social value. Additionally, I am intrigued by retrieval-based approaches such as RAG and RALM for addressing these topics.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
